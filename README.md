@@ -1,2 +1,3 @@
 # bookbot
-A boot.dev assignment that will read book text and break down the contents of said text.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
